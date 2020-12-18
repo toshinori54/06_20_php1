@@ -28,6 +28,7 @@ fclose($file);
     <fieldset>
         <legend>コロナアンケート </legend>
         <a href="index.php">入力画面</a>
+        <a href="csv_open.php">CSV画面</a>
         <table>
             <thead>
                 <tr>
